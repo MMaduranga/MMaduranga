@@ -38,3 +38,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MMaduranga&theme=algolia&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=MMaduranga&icon=0&color=0)](https://visitcount.itsvg.in) -->
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
