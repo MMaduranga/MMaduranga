@@ -1,11 +1,11 @@
 <!-- ![logo](link.com) -->
 <i><h1 align="center">Hey, I'm Madhawa Maduranga</h1></i>
-<h3 align="center">A passionate Software Developer from Sri Lanka</h3>
+<h3 align="center">Associate Data Scientist @ CDB Finance | MSc Data Science & AI (SJP) - Reading | BSc SJP | A passionate AI/ML Developer from Sri Lanka.</h3>
 <img alt="Coding" width="400" align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius: 40px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmaduranga&label=Profile%20views&color=0e75b6&style=flat" alt="mmaduranga" /> </p>
 
--  I’m currently learning **Blockchain development**
+-  I’m currently learning **Rust for Federated learning**
 
 -  Ask me about **Flutter, AI ,ML**
 
